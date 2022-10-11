@@ -1,17 +1,10 @@
-body{
-    margin-top: 150px;
+.user-info {
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
-h1 {
-    border: 2px #eee solid;
-    color: blue;
-    text-align: center;
-    padding: 10px;
-    width: 30% ;
-    margin: 0 auto;
-}
-form{
-
-    width: 30% ;
-    margin: 0 auto;
-    
+.user-info li {
+    display: inline-block;
+    margin: 0;
+    padding: 0 10px 0 0;
 }
